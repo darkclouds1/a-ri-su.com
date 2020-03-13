@@ -1,0 +1,14 @@
+/********************************
+ * Admin Style
+ ********************************/
+.wrap_eighttwenty {width:900px;margin-left:20px}
+.wrap_eighttwenty form {width:900px}
+ #box {display:none}
+ .options_table {background-color:#f4f4f4;border-collapse: collapse;margin-top:0;width:100%;margin-bottom: -8px;padding: 10px 0px;}
+ .option_title{width:250px;font:14px "helvetica neue", helvetica, arial, sans-serif; font-weight:bold;}
+ .options_row {padding:10px 0 10px 0 !important; border-bottom: 1px solid #fff !important; float: left; margin: 0px 10px 10px 10px !important; }
+ .textbox {width:400px}
+ .theme-title{font:24px "helvetica neue", helvetica, arial, sans-serif; font-weight:bold}
+ .option-head {border:1px solid #ccc;margin:1em 0 0 0;background-color:#FFF;padding:4px;}
+ .option-head h3{font:18px Helvetica, Arial, sans-serif; font-weight:bold;}
+ .trigger {font-size:12px;}

@@ -1,0 +1,191 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-prettyPhoto 1.5\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-prettyphoto\n"
+"POT-Creation-Date: 2009-07-24 23:17-0400\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Pier-Luc Petitclerc <pl@fusi0n.org>\n"
+"Language-Team:  <pL@fusi0n.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: fr_FR\n"
+"X-Poedit-Country: Canada\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: wp-prettyphoto.php:178
+msgid "Automatic prettyfying options."
+msgstr "Options d'embellisage automatiques"
+
+#: wp-prettyphoto.php:181
+msgid "Below is a list of the prettyPhoto themes you have installed. To learn more about themeing prettyPhoto, refer to the <a href=\"http://blog.fusi0n.org/wp-prettyphoto/technical-information-and-usage-instructions#theming\" target=\"_blank\">documentation</a>.</p>"
+msgstr "Ci-bas se trouve une liste des thèmes de prettyPhoto que vous avez d'installé. Pour en apprendre plus au sujet des thèmes de prettyPhoto, réferez-vous à la <a href=\"http://blog.fusi0n.org/wp-prettyphoto/technical-information-and-usage-instructions#theming\" target=\"_blank\">documentation</a>."
+
+#: wp-prettyphoto.php:184
+msgid "Technical settings"
+msgstr "Paramètres techniques"
+
+#: wp-prettyphoto.php:239
+msgid "Settings"
+msgstr "Paramètres"
+
+#: wp-prettyphoto.php:240
+msgid "Help"
+msgstr "Aide"
+
+#: wp-prettyphoto.php:401
+msgid "Automate all"
+msgstr "Automatiser tout"
+
+#: wp-prettyphoto.php:402
+msgid "Automatic replacement of all supported media types"
+msgstr "Remplacement automatique de tout les fichiers supportés"
+
+#: wp-prettyphoto.php:406
+msgid "Automate images"
+msgstr "Automatiser les images"
+
+#: wp-prettyphoto.php:407
+msgid "Automatic replacement of image links (BMP, GIF, JPG, JPEG, PNG)"
+msgstr "Remplacement automatique de tout les fichiers images (BMP, GIF, JPG, JPEG, PNG)"
+
+#: wp-prettyphoto.php:411
+msgid "Automate flash"
+msgstr "Automatiser Flash"
+
+#: wp-prettyphoto.php:412
+msgid "Automatic replacement of Flash video links (SWF)"
+msgstr "Remplacement automatique des vidéos Flash (SWF)"
+
+#: wp-prettyphoto.php:416
+msgid "Automate QuickTime"
+msgstr "Automatiser QuickTime"
+
+#: wp-prettyphoto.php:417
+msgid "Automatic replacement of Quicktime video links (MOV)"
+msgstr "Remplacement automatique des vidéos QuickTime (MOV)"
+
+#: wp-prettyphoto.php:421
+msgid "Automate YouTube"
+msgstr "Automatiser YouTube"
+
+#: wp-prettyphoto.php:422
+msgid "Automatic replacement of YouTube links"
+msgstr "Remplacement automatique des liens YouTube"
+
+#: wp-prettyphoto.php:426
+msgid "Automate iFrames"
+msgstr "Automatiser les iFrames"
+
+#: wp-prettyphoto.php:427
+msgid "Automatic replacement of external iFrames"
+msgstr "Remplacement automatique d'iFrames externes"
+
+#: wp-prettyphoto.php:431
+msgid "Rel value"
+msgstr "Valeur rel"
+
+#: wp-prettyphoto.php:432
+msgid "Value of the links' \"REL\" attribute you want WP-prettyPhoto to look for"
+msgstr "Valeur de l'attribut \"REL\" des liens que prettyPhoto doit remplacer"
+
+#: wp-prettyphoto.php:437
+msgid "Speed"
+msgstr "Vitesse"
+
+#: wp-prettyphoto.php:438
+msgid "The speed at which the prettyPhoto box should open"
+msgstr "La vitesse a laquelle la fenêtre prettyPhoto s'ouvre"
+
+#: wp-prettyphoto.php:442
+msgid "Padding"
+msgstr "Rembourrage"
+
+#: wp-prettyphoto.php:443
+msgid "Padding on each side of the displayed element inside prettyPhoto's box. Percentage values only (0-100)"
+msgstr "Rembourrage sur les cotés de l'élément affiché dans la fenêtre de prettyPhoto. Valeurs pourcentile seulement (0-100)"
+
+#: wp-prettyphoto.php:447
+msgid "Opacity"
+msgstr "Opacité"
+
+#: wp-prettyphoto.php:448
+msgid "Opacity of prettyPhoto's box. Float values between 0 and 1.0."
+msgstr "L'opacité de la fenêtre de prettyPhoto. Valeurs flottantes entre 0 et 1.0"
+
+#: wp-prettyphoto.php:452
+msgid "Show title"
+msgstr "Afficher le titre"
+
+#: wp-prettyphoto.php:453
+msgid "Show title (value of the links' ALT attribute) inside prettyPhoto box."
+msgstr "Afficher le titre (valeur de l'attribut ALT du lien) a l'intérieur de la fenêtre prettyPhoto"
+
+#: wp-prettyphoto.php:457
+msgid "Allow resize"
+msgstr "Permettre la redimension"
+
+#: wp-prettyphoto.php:458
+msgid "Allow the prettyPhoto box to be resizeable"
+msgstr "Permettre la fenêtre de prettyPhoto d'être redimensionnée"
+
+#: wp-prettyphoto.php:462
+msgid "Counter label"
+msgstr "Séparateur du compte"
+
+#: wp-prettyphoto.php:463
+msgid "String value of the separator character for galleries"
+msgstr "Valeur texte du séparateur entre le compte des photos d'une gallerie"
+
+#: wp-prettyphoto.php:467
+msgid "Theme"
+msgstr "Thème"
+
+#: wp-prettyphoto.php:469
+msgid "prettyPhoto theme to use"
+msgstr "Thème prettyPhoto a utiliser"
+
+#: wp-prettyphoto.php:473
+msgid "Replace JavaScript"
+msgstr "Remplacer le JavaScript"
+
+#: wp-prettyphoto.php:474
+msgid "Replace WordPress' jQuery with bundled version"
+msgstr "Remplacer la version de jQuery incluse avec WordPress"
+
+#: wp-prettyphoto.php:478
+msgid "Enable ShortCodes"
+msgstr "Activer les code de raccourcis"
+
+#: wp-prettyphoto.php:479
+msgid "Enables usage of ShortCodes to display prettyPhoto - useful when you're not automatically prettifying all media types but still want to use it occasionnaly"
+msgstr "Activer l'utilisation des codes de raccourcis - utile lorsque vous n'embellisez pas automatiquement tout les types de médias mais que vous voulez quand même en bénéficier."
+
+#: wp-prettyphoto.php:483
+msgid "Callback function"
+msgstr "Fonction d'appel"
+
+#: wp-prettyphoto.php:484
+msgid "Callback function (MUST be \"function(){YOUR_JS_CODE_HERE}\")"
+msgstr "Fonction d'appel lancée avec prettyPhoto (DOIT être \"function(){VOTRE_CODE_ICI}\")"
+
+#. Plugin Name of an extension
+msgid "WP-prettyPhoto"
+msgstr "WP-prettyPhoto"
+
+#. Plugin URI of an extension
+msgid "http://blog.fusi0n.org/category/wp-prettyphoto"
+msgstr "http://blog.fusi0n.org/category/wp-prettyphoto"
+
+#. Description of an extension
+msgid "prettyPhoto is a jQuery based lightbox clone. Not only does it support images, it also add support for videos, flash, YouTube, iFrame. It's a full blown media modal box. WP-prettyPhoto embeds those functionalities in WordPress."
+msgstr "prettyPhoto est un clone de Lightbox basé sur jQuery. Non seulement supporte-t'il les images, mais aussi les vidéos, Flash, YouTube et les iFrames. C'est une boite media modale complète. WP-prettyPhoto apporte ces fonctionnalités dans WordPress."
+
+#. Author of an extension
+msgid "Pier-Luc Petitclerc"
+msgstr "Pier-Luc Petitclerc"
+
+#. Author URI of an extension
+msgid "http://blog.fusi0n.org"
+msgstr "http://blog.fusi0n.org"
+

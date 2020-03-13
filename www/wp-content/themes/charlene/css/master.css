@@ -1,0 +1,181 @@
+/**
+ *MASTER STYLESHEET/THEME:CHARLENE
+ */
+
+
+
+/*	START DOCUMENT
+================================================================ */
+
+body                                     {background-color: #fff;color:#444;font:12px Helvetica, "Helvetica Neue", Arial, sans-serif;line-height:18px}
+
+
+
+/*	STRUCTURE
+================================================================ */
+#wrapper                                 {margin-left:auto;margin-right:auto;overflow:hidden;padding:0;width:820px;}
+
+	#header                                  {margin:0px;padding:0px 20px;text-align:right}
+
+		#content                                 {margin-top:90px;padding:0px 20px}
+	
+			#primary                            {display:inline;float:left;margin:0px;padding:0;width:460px;}
+
+			#secondary                          {float:right;margin-top:5.536em;padding:0px 0px;width:280px;}
+
+	#footer                                  {float:left;width:760px;margin:0 20px;padding:0;overflow:hidden}
+
+
+/*	LINK STYLING
+================================================================ */
+a, a:visited                             {color:#212121;font-weight:bold;text-decoration:none}
+a:hover, a:active                        {color:#ff2b06}
+
+
+/*	TYPOGRAPHY
+================================================================ */
+h1,h2,h3, 
+h4,h5,h6                                 {color:#333;font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;font-weight:bold} 
+
+h1                                       {font-size:4em;line-height:1.1em;margin:0 0 0.2em 0;text-align:left}
+
+h2                                       {font-size:1.75em;line-height:1.1em; margin:0em 0 0.75em 0; padding:0;}
+
+h3                                       {font-size:1.75em;line-height:1em; margin:1em 0;padding:0;}
+
+h4                                       {font-size:1.5em;line-height:1.16667em; margin:1.6667em 0; padding:0;}
+
+h5                                       {font-size:1.333333em;line-height:1.3125em;margin:1.3125em 0}
+
+h1 a, h2 a, h3 a, h4 a, h5 a,.logo a,
+h1 a:visited, h2 a:visited,
+h3 a:visited, h4 a:visited,
+h5 a:visited                             {color:#333}
+h1 a:hover, h2 a:hover, 
+h3 a:hover, h4 a:hover, 
+h5 a:hover                               {color:#ff2b06}
+
+p                                        {font-size:1.083333em; line-height:1.384615em;margin:1.384615em 0}
+
+/*	HEADER
+================================================================ */
+.logo                                    {border-bottom:8px solid #212121;color:#000;font-size:1.75em;font-weight:bold;line-height:1.4em;margin-left:510px}
+
+.quote                                   {font-style:italic;font-size:1.1em;font-family:Georgia, serif;margin-left:510px}
+
+
+/* MAIN PAGE TITLE
+================================================================ */
+#page-title                              {width:440px;}
+
+.tagline                                 {font-size:1em;margin:0px 0 4.152em 0;}
+
+
+/* NAVIGATION
+================================================================ */
+#breadcrumb-nav 						 {display:block;margin:0 0 1.5em 0;overflow:hidden}
+#breadcrumb-nav li 						 {float:left;margin-right:5px;}
+
+
+/*	GENERAL ARTICLE STYLING
+================================================================ */ 
+.post                                 {margin-bottom:2.768em;padding:0;}
+
+.post-date                               {float:left;display:inline;margin: 0 10px 0 -45px;text-align:center}
+    .day                                     {display:block;font-size:21px;}
+    .month                                   {font-size:16px;}
+    .byline                                  {color:#333;display:inline;font-size:12px;}
+
+ blockquote p                            {border-left: 3px solid #999;color:#999;margin:36px 1.5em;padding-left:10px }
+ .pullquote                              {float:left;font-weight:bold;font-size:1.333333em;line-height:1.3125em;padding:0 1em 1em 0;text-align:left;width:180px;}  
+
+.postmeta                                {color:#333;font-size:12px;font-weight:bold;margin:1.5em 0 0 0px;}
+
+
+/*	ARTICLE SINGLE	
+================================================================ */
+.entry-content                           {text-align: justify}
+.entry-attachment                        {background-color:#f5f5f5;border:1px dotted #999;margin:36px 0;padding:10px}
+.entry img                               {background-color: #FFF; border:1px solid #CCC;max-width:460px;padding:2px; } 
+
+.entry ol                                {margin-bottom:18px;}
+	
+.entry ul                                {margin-bottom:18px} 
+
+.navigation                              {width:100%;font-weight:bold;text-transform:lowercase;overflow:hidden}
+	
+
+/*	COMMENTS
+================================================================ */
+#commentarea                            {margin:50px 0 10px 0;padding:0}
+
+ol#comment-list, 
+#comment-list ul                        {list-style:none}
+
+#comment-list li                        {clear:both;padding:20px 0;}
+#comment-list p                           {margin-top:5px}
+
+.comment-left                            {clear:both;float:left;border-top:1px solid #666666;padding:5px 0;text-transform:uppercase;width:20%}
+
+	.the-author                              {display:block;font-size:11px;line-height:12px}
+    .commentmetadata                         {font-size:10px;}
+    
+.comment-right                           {border-top:1px solid #ccc;float:left;padding:0 10px;width:65%}
+
+.reply                                   {font-size:11px;text-align:right}
+
+#respond                                 {clear:both;padding:10px 0;width:100%}
+
+textarea#comment                         {width:90%}
+
+#submit                                  {background:#f1f1f1;border:1px solid #ccc;font-size:1em;padding:5px 2px}
+
+/*	SECONDARY NAVIGATION 
+================================================================ */
+#secondary h3                            {font-size:1.166667em;line-height:1.5em;text-transform:uppercase}
+
+#secondary ul                            {list-style:none}
+
+#secondary ul#main-left,
+#secondary ul#main-right                 {padding:0 0px 0 10px}
+
+#secondary ul ul                         {margin:0 0 40px 0}
+
+#secondary ul ul li                      {border-bottom:1px solid #ccc;font-size:1.083333em; line-height:1.5em;margin:0;padding:3px 0}
+
+#secondary ul ul li.aside                {margin-bottom:1.5em;padding:3px 0}
+	.aside-title                         {font-weight:bold;text-transform:lowercase}
+    .aside-content                       {color:#323232;}
+
+
+/*	SEARCH
+================================================================ */
+li#site-search li          				 {border:none;}
+.widget_search                           {margin-bottom:40px}
+
+#searchform #searchsubmit                {background-color:#FFF;border:none;;margin-left:2px;padding:0}
+
+#searchform #s                           {padding:2px;width:150px}
+
+.error404 #searchform #s                 {font-size:24px;font-weight:bold;width:300px;}
+.error404 #searchsubmit                  {font-size:24px;font-weight:bold}
+
+/*	FOOTER	
+================================================================ */
+.footer-copy                             {margin-left:510px;padding:0px;}
+
+.footer-copy p                           {border-top:8px solid #212121;text-align:right;font-size:12px;padding:5px 0px;}
+
+#four-oh-four                            {font-size:8em;font-family:"helvetica neue";font-weight: bold}
+.four-o-four                             {text-align:center}
+.error404 #footer                        {display:none}
+
+/*	MISC
+================================================================ */
+.fl                                      {float:left;margin:0;}
+.fr                                      {float:right;margin:0;}
+
+
+/* CLEAR IF NEEDED
+================================================================ */
+.clearfix:after, .navigation:after, #comment-list li:after {content: ".";display: block;clear: both;visibility: hidden;line-height: 0;height: 0;}.clearfix {display: inline-block;}html[xmlns] .clearfix {display: block;}* html .clearfix {height: 1%;}

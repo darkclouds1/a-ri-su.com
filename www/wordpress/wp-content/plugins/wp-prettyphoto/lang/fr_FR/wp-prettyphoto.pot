@@ -1,0 +1,196 @@
+# POT Translation base for WP-prettyPhoto
+# Copyright (C) 2009 Pier-Luc Petitclerc
+# This file is distributed under the same license as the WP-prettyPhoto package.
+# Pier-Luc Petitclerc <pl@fusi0n.org>, 2009.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-prettyPhoto 1.4\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-prettyphoto\n"
+"POT-Creation-Date: 2009-07-24 23:17-0400\n"
+"PO-Revision-Date: 2009-07-24 23:25-0400\n"
+"Last-Translator: Pier-Luc Petitclerc <pL@fusi0n.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: wp-prettyphoto.php:156
+msgid "Automatic prettyfying options."
+msgstr "Option de méthodes d'embellisage"
+
+#: wp-prettyphoto.php:159
+msgid ""
+"Below is a list of the prettyPhoto themes you have installed. To learn more "
+"about themeing prettyPhoto, refer to the <a href=\"http://blog.fusi0n.org/wp-"
+"prettyphoto/technical-information-and-usage-instructions#theming\" target="
+"\"_blank\">documentation</a>.</p>"
+msgstr ""
+"Ci-bas se trouve la liste des thèmes que vous avez d'installé. Pour en apprendre "
+"plus au sujet de prettyPhoto, référez-vous à la <a href=\"http://blog.fusi0n.org/wp-"
+"prettyphoto/technical-information-and-usage-instructions#theming\" target="
+"\"_blank\">documentation</a>.</p>"
+
+#: wp-prettyphoto.php:162
+msgid "Technical settings"
+msgstr "Options technique"
+
+#: wp-prettyphoto.php:338
+msgid "Automate all"
+msgstr "Tout automatiser"
+
+#: wp-prettyphoto.php:340
+msgid "Automatic replacement of all supported media types"
+msgstr "Remplacement automatique de tout les médias supportés"
+
+#: wp-prettyphoto.php:343
+msgid "Automate images"
+msgstr "Automatiser les images"
+
+#: wp-prettyphoto.php:345
+msgid "Automatic replacement of image links (BMP, GIF, JPG, JPEG, PNG)"
+msgstr "Remplace automatiquement les images liées (BMP, GIF, JPG, JPEG, PNG)"
+
+#: wp-prettyphoto.php:348
+msgid "Automate flash"
+msgstr "Automatiser le Flash"
+
+#: wp-prettyphoto.php:350
+msgid "Automatic replacement of Flash video links (SWF)"
+msgstr "Remplace automatiquement les vidéos flash (SWF)"
+
+#: wp-prettyphoto.php:353
+msgid "Automate QuickTime"
+msgstr "Automatiser QuickTime"
+
+#: wp-prettyphoto.php:355
+msgid "Automatic replacement of Quicktime video links (MOV)"
+msgstr "Remplace automatiquement les vidéos QuickTime (MOV)"
+
+#: wp-prettyphoto.php:358
+msgid "Automate YouTube"
+msgstr "Automatiser YouTube"
+
+#: wp-prettyphoto.php:360
+msgid "Automatic replacement of YouTube links"
+msgstr "Remplace automatiquement les vidéos YouTube"
+
+#: wp-prettyphoto.php:363
+msgid "Automate iFrames"
+msgstr "Automatiser les iFrames"
+
+#: wp-prettyphoto.php:365
+msgid "Automatic replacement of external iFrames"
+msgstr "Remplace automatiquement les liens externes"
+
+#: wp-prettyphoto.php:368
+msgid "Rel value"
+msgstr "Valeur 'REL'"
+
+#: wp-prettyphoto.php:370
+msgid ""
+"Value of the links' \"REL\" attribute you want WP-prettyPhoto to look for"
+msgstr "La valeur de l'attribut 'rel' des liens que WP-prettyPhoto doit chercher"
+
+#: wp-prettyphoto.php:374
+msgid "Speed"
+msgstr "Vitesse"
+
+#: wp-prettyphoto.php:376
+msgid "The speed at which the prettyPhoto box should open"
+msgstr "La vitesse à laquelle la boite de prettyPhoto doit ouvrir"
+
+#: wp-prettyphoto.php:379
+msgid "Padding"
+msgstr "Rembourrage"
+
+#: wp-prettyphoto.php:381
+msgid ""
+"Padding on each side of the displayed element inside prettyPhoto's box. "
+"Percentage values only (0-100)"
+msgstr ""
+"L'espace de chaque coté de l'élément a l'interieur de la boite de prettyphoto. "
+"Valeur percentile seulement (0-100)"
+
+#: wp-prettyphoto.php:384
+msgid "Opacity"
+msgstr "Opacité"
+
+#: wp-prettyphoto.php:386
+msgid "Opacity of prettyPhoto's box. Float values between 0 and 1.0."
+msgstr "L'opacité de la boite de prettyPhoto. Valeurs flottantes entre 0 et 1.0."
+
+#: wp-prettyphoto.php:389
+msgid "Show title"
+msgstr "Afficher le titre"
+
+#: wp-prettyphoto.php:391
+msgid "Show title (value of the links' ALT attribute) inside prettyPhoto box."
+msgstr "Affiche le titre (valeur de l'attribut ALT des liens) à l'interieur de la boite de prettyPhoto"
+
+#: wp-prettyphoto.php:394
+msgid "Allow resize"
+msgstr "Permettre la redimension"
+
+#: wp-prettyphoto.php:396
+msgid "Allow the prettyPhoto box to be resizeable"
+msgstr "Permets à la fenêtre de prettyPhoto d'être redimensionnée"
+
+#: wp-prettyphoto.php:399
+msgid "Counter label"
+msgstr "Texte du séparateur"
+
+#: wp-prettyphoto.php:401
+msgid "String value of the separator character for galleries"
+msgstr "Valeur texte du séparateur entre les comptes de photos"
+
+#: wp-prettyphoto.php:404
+msgid "Theme"
+msgstr "Thème"
+
+#: wp-prettyphoto.php:407
+msgid "prettyPhoto theme to use"
+msgstr "thème que doit utiliser prettyPhoto"
+
+#: wp-prettyphoto.php:410
+msgid "Replace JavaScript"
+msgstr "Remplacer le JavaScript"
+
+#: wp-prettyphoto.php:412
+msgid "Replace WordPress' jQuery with bundled version"
+msgstr "Remplacer la librarie jQuery livrée avec WordPress pour celle livrée avec WP-prettyPhoto"
+
+#: wp-prettyphoto.php:415
+msgid "Callback function"
+msgstr "Fonction de rappel"
+
+#: wp-prettyphoto.php:417
+msgid "Callback function (MUST be \"function(){YOUR_JS_CODE_HERE}\")"
+msgstr "La fonction de rappelle (DOIT etre \"function(){VOTRE_CODE_JS}\")"
+
+#. Plugin Name of an extension
+msgid "WP-prettyPhoto"
+msgstr "WP-prettyPhoto"
+
+#. Plugin URI of an extension
+msgid "http://blog.fusi0n.org/category/wp-prettyphoto"
+msgstr "http://blog.fusi0n.org/category/wp-prettyphoto"
+
+#. Description of an extension
+msgid ""
+"WP-prettyPhoto allows you to use <a href=\"http://www.no-margin-for-errors."
+"com/projects/prettyPhoto/\" alt=\"prettyPhoto\">prettyPhoto</a> by <a href="
+"\"http://www.no-margin-for-errors.com/\">Stphane Caron</a>, a jQuery-powered "
+"Lightbox clone with WordPress."
+msgstr "WP-prettyPhoto vous permets d'utiliser <a href=\"http://www.no-margin-for-errors."
+"com/projects/prettyPhoto/\" alt=\"prettyPhoto\">prettyPhoto</a> par <a href="
+"\"http://www.no-margin-for-errors.com/\">Stphane Caron</a>, un clone de Ligbox"
+"sous jQuery avec WordPress."
+
+#. Author of an extension
+msgid "Pier-Luc Petitclerc"
+msgstr "Pier-Luc Petitclerc"
+
+#. Author URI of an extension
+msgid "http://blog.fusi0n.org"
+msgstr "http://blog.fusi0n.org"

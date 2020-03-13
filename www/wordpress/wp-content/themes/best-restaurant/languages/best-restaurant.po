@@ -1,0 +1,704 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Best Restaurant\n"
+"POT-Creation-Date: 2018-08-18 11:29+0800\n"
+"PO-Revision-Date: 2018-08-18 11:29+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: custom/best-restaurant-config.php:21
+msgid "Forntpage Settings"
+msgstr ""
+
+#: custom/best-restaurant-config.php:22
+msgid "Homepage options for Best Restaurant theme"
+msgstr ""
+
+#: custom/best-restaurant-config.php:26
+msgid "Homepage Layout"
+msgstr ""
+
+#: custom/best-restaurant-config.php:32
+msgid "Slider Section"
+msgstr ""
+
+#: custom/best-restaurant-config.php:33
+msgid "About Section"
+msgstr ""
+
+#: custom/best-restaurant-config.php:34
+msgid "Service Section"
+msgstr ""
+
+#: custom/best-restaurant-config.php:37
+msgid "Woocommerce Section"
+msgstr ""
+
+#: custom/best-restaurant-config.php:38
+msgid "Advantage Section"
+msgstr ""
+
+#: custom/best-restaurant-config.php:39
+msgid "Team Section"
+msgstr ""
+
+#: custom/best-restaurant-config.php:42
+msgid "Fact Section"
+msgstr ""
+
+#: custom/best-restaurant-config.php:43
+msgid "Gallery Section"
+msgstr ""
+
+#: custom/best-restaurant-config.php:44
+msgid "Testimonial Section"
+msgstr ""
+
+#: custom/best-restaurant-config.php:47
+msgid "Client Section"
+msgstr ""
+
+#: custom/best-restaurant-config.php:48
+msgid "News Section"
+msgstr ""
+
+#: custom/best-restaurant-config.php:49
+msgid "Contact Section"
+msgstr ""
+
+#: custom/best-restaurant-config.php:51
+msgid "Blog Section"
+msgstr ""
+
+#: custom/best-restaurant-config.php:52
+msgid "Map Section"
+msgstr ""
+
+#: custom/best-restaurant-config.php:53
+msgid "Footer Tool Section"
+msgstr ""
+
+#: custom/best-restaurant-config.php:67
+msgid "video Background Options"
+msgstr ""
+
+#: custom/best-restaurant-config.php:80
+msgid "Enable section header menu in the feature homepage"
+msgstr ""
+
+#: custom/best-restaurant-config.php:90
+msgid "Switch \"Front page displays\" to \"A static page\""
+msgstr ""
+
+#: custom/best-restaurant-config.php:92
+#, php-format
+msgid ""
+"Your homepage is not static page. In order to set up the home page as shown "
+"in the official demo on our website (one page front page with sections), you "
+"will need to set up your front page to use a static page instead of showing "
+"your latest blog posts. Check the %s page for more informations."
+msgstr ""
+
+#: custom/best-restaurant-config.php:92
+msgid "Theme info"
+msgstr ""
+
+#: custom/best-restaurant-config.php:106
+msgid "Homepage Blocks"
+msgstr ""
+
+#: custom/best-restaurant-config.php:108
+msgid "Drag and Drop and enable the homepage blocks."
+msgstr ""
+
+#: custom/best-restaurant-config.php:119
+msgid "Best Restaurant PRO"
+msgstr ""
+
+#: custom/best-restaurant-config.php:120
+msgid ""
+"Available in Best Restaurant PRO: Feature Section, Gallery Section, More "
+"Service Items, Facts / Number Section, Our Team Section, Pricing Section, "
+"Testimonials Section, Clients Section,Contact Us Section,Call out Section, "
+"Google Map, Custom Colors, Google Fonts, video(include Youtube) Backgrounds, "
+"More Animations Effects and WooCommerce Compatible much more..."
+msgstr ""
+
+#: custom/best-restaurant-config.php:122
+msgid "Discover Best Restaurant PRO"
+msgstr ""
+
+#: custom/best-restaurant-config.php:131 custom/best-restaurant-config.php:306
+msgid "Main Menu Title"
+msgstr ""
+
+#: custom/best-restaurant-config.php:141
+msgid "Apply background video to this slider"
+msgstr ""
+
+#: custom/best-restaurant-config.php:142
+msgid ""
+"If you enable video background, you need to set the setting \"video "
+"background option\" in the homepage settings"
+msgstr ""
+
+#: custom/best-restaurant-config.php:155
+msgid "Slider"
+msgstr ""
+
+#: custom/best-restaurant-config.php:164
+msgid "Select page"
+msgstr ""
+
+#: custom/best-restaurant-config.php:170 custom/best-restaurant-config.php:715
+msgid "Button Text"
+msgstr ""
+
+#: custom/best-restaurant-config.php:175
+msgid "URL"
+msgstr ""
+
+#: custom/best-restaurant-config.php:183
+msgid "Slide"
+msgstr ""
+
+#: custom/best-restaurant-config.php:192
+msgid "Slide Time"
+msgstr ""
+
+#: custom/best-restaurant-config.php:205
+msgid "Title Typography"
+msgstr ""
+
+#: custom/best-restaurant-config.php:225
+msgid "Description Typography"
+msgstr ""
+
+#: custom/best-restaurant-config.php:244
+msgid "Slider Button Background Color"
+msgstr ""
+
+#: custom/best-restaurant-config.php:257 custom/best-restaurant-config.php:765
+msgid "Button Text Typography"
+msgstr ""
+
+#: custom/best-restaurant-config.php:277
+msgid "Section Title"
+msgstr ""
+
+#: custom/best-restaurant-config.php:287
+msgid "Title Iocn"
+msgstr ""
+
+#: custom/best-restaurant-config.php:297
+msgid "Section Description"
+msgstr ""
+
+#: custom/best-restaurant-config.php:316
+msgid "Section Background Image"
+msgstr ""
+
+#: custom/best-restaurant-config.php:327
+msgid "Section Background Color"
+msgstr ""
+
+#: custom/best-restaurant-config.php:336
+msgid "Section Background Opacity"
+msgstr ""
+
+#: custom/best-restaurant-config.php:349
+msgid "Section Padding Control"
+msgstr ""
+
+#: custom/best-restaurant-config.php:363
+msgid "Section Mobile Padding Control"
+msgstr ""
+
+#: custom/best-restaurant-config.php:379
+msgid "Enable Animate"
+msgstr ""
+
+#: custom/best-restaurant-config.php:390
+msgid "Enable Parallax Background"
+msgstr ""
+
+#: custom/best-restaurant-config.php:403
+msgid "Title / Description Typography Setting"
+msgstr ""
+
+#: custom/best-restaurant-config.php:404
+msgid "Enable or disable Title / Description Typography"
+msgstr ""
+
+#: custom/best-restaurant-config.php:413
+msgid " Title Typography"
+msgstr ""
+
+#: custom/best-restaurant-config.php:435
+msgid " Description Typography"
+msgstr ""
+
+#: custom/best-restaurant-config.php:464
+msgid "About Us Content Select"
+msgstr ""
+
+#: custom/best-restaurant-config.php:475
+msgid "About Image"
+msgstr ""
+
+#: custom/best-restaurant-config.php:495
+msgid "Displays the number of articles"
+msgstr ""
+
+#: custom/best-restaurant-config.php:511
+msgid "The following catagories will display on Blog section in the Homepage."
+msgstr ""
+
+#: custom/best-restaurant-config.php:522
+msgid "Homepage Article Default Feature image"
+msgstr ""
+
+#: custom/best-restaurant-config.php:534
+msgid "Footer Logo"
+msgstr ""
+
+#: custom/best-restaurant-config.php:544
+msgid "Tool 1 Description"
+msgstr ""
+
+#: custom/best-restaurant-config.php:545 custom/section/homepage-tool.php:13
+msgid ""
+"Donec at eui smod nibh, eu bibendum quam. Nullam  non gravida pDonec at eui "
+"smod nibh, eu bibendum quam. Nullam  non gravida peu bibendum quam. Nullam  "
+"non gravida peu bibendum quam. Nullam  non gravida p"
+msgstr ""
+
+#: custom/best-restaurant-config.php:554
+msgid "Tool 2 Title"
+msgstr ""
+
+#: custom/best-restaurant-config.php:555 custom/section/homepage-tool.php:15
+msgid "Contact Us"
+msgstr ""
+
+#: custom/best-restaurant-config.php:563
+msgid "Tool 2 Information"
+msgstr ""
+
+#: custom/best-restaurant-config.php:568
+#, php-format
+msgid ""
+"Note: <br>Find fontawesome icon: <a href=\"%1$s\" target=\"_blank\">http://"
+"fontawesome.io/icons/</a>, Example: <a href=\"%2$s\" target=\"_blank"
+"\">http://fontawesome.io/examples/</a>"
+msgstr ""
+
+#: custom/best-restaurant-config.php:574
+msgid "tool 2 Fontawesome Icon"
+msgstr ""
+
+#: custom/best-restaurant-config.php:579
+msgid "Tool 2 Text"
+msgstr ""
+
+#: custom/best-restaurant-config.php:586
+msgid "Tool 2 Contact Item"
+msgstr ""
+
+#: custom/best-restaurant-config.php:593
+msgid "Tool 3 Title"
+msgstr ""
+
+#: custom/best-restaurant-config.php:594 custom/section/homepage-tool.php:17
+msgid "Opening Hours"
+msgstr ""
+
+#: custom/best-restaurant-config.php:602
+msgid "Tool 3 Information"
+msgstr ""
+
+#: custom/best-restaurant-config.php:610 custom/section/homepage-tool.php:61
+msgid "Monday-Friday: 08:00AM - 10:00PM"
+msgstr ""
+
+#: custom/best-restaurant-config.php:614 custom/section/homepage-tool.php:65
+msgid "Saturday-Sunday: 10:00AM - 11:00PM"
+msgstr ""
+
+#: custom/best-restaurant-config.php:621
+msgid "Tool 3 Text"
+msgstr ""
+
+#: custom/best-restaurant-config.php:628
+msgid "Tool 3 Contact Item"
+msgstr ""
+
+#: custom/best-restaurant-config.php:635
+msgid "Footer Copyriht 2"
+msgstr ""
+
+#: custom/best-restaurant-config.php:637 footer.php:77
+msgid ""
+"Powered by <a href=\"http://wordpress.org/\">WordPress</a>. Best Restaurant "
+"theme by <a href=\"https://www.coothemes.com/\">CooThemes.com</a>."
+msgstr ""
+
+#: custom/best-restaurant-config.php:646
+msgid "Facebook Link"
+msgstr ""
+
+#: custom/best-restaurant-config.php:655
+msgid "Twitter Link"
+msgstr ""
+
+#: custom/best-restaurant-config.php:664
+msgid "Youtube Link"
+msgstr ""
+
+#: custom/best-restaurant-config.php:673
+msgid "Pinterest Link"
+msgstr ""
+
+#: custom/best-restaurant-config.php:682
+msgid "Google Plus Link"
+msgstr ""
+
+#: custom/best-restaurant-config.php:691
+msgid "Instagram Link"
+msgstr ""
+
+#: custom/best-restaurant-config.php:700
+msgid "Enable hr in footer"
+msgstr ""
+
+#: custom/best-restaurant-config.php:725
+msgid "Button URL"
+msgstr ""
+
+#: custom/best-restaurant-config.php:735
+msgid "Button Background Color"
+msgstr ""
+
+#: custom/best-restaurant-config.php:749
+msgid "Button Background Opacity"
+msgstr ""
+
+#: custom/best-restaurant-config.php:782
+msgid "Button Border Radius"
+msgstr ""
+
+#: custom/best-restaurant-config.php:795
+msgid "Section Button Padding Control"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:20
+#: custom/ct-about-page/about-page.php:22
+msgid "About Best Restaurant"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:25
+#, php-format
+msgid "Welcome to %s! - Version "
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:27
+msgid ""
+"Best Restaurant is a modern, clean and professional WordPress theme that is "
+"perfect for restaurant, café, bakery, cuisine, fast food, pizzerias, drinks "
+"and food related business. The theme is specially designed based on the "
+"requirements of the food business and contains all needed functionalities, "
+"including food menu, reservation, gallery, opening hours, and map. Moreover, "
+"the theme has other awesome functionalities to help you build an awesome "
+"website, such as HTML5 video background, parallax scrolling effect, "
+"portfolio, newsletter subscribe and many more. Using latest Bootstrap "
+"Framework, HTML5 and CSS3 techniques, the theme is fully responsive on "
+"various devices. And Best Restaurant supports both one-page and multi-page "
+"layout. Moreover, the theme is compatible with WooCommerce, Contact Form 7, "
+"and MailChimp plugins. Demo: http://demo.coothemes.com/best-restaurant-pro/"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:35
+msgid "Getting Started"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:37
+msgid "Recommended Plugins"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:40
+msgid "Free vs PRO"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:49
+#: custom/ct-about-page/about-page.php:51
+msgid "Recommended actions"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:50
+msgid ""
+"We have compiled a list of steps for you to take so we can ensure that the "
+"experience you have using one of our products is very easy to follow."
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:58
+msgid "Read full documentation"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:59
+msgid ""
+"Need more details? Please check our full documentation for detailed "
+"information on how to use best-restaurant."
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:60
+msgid "Documentation"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:67
+#: custom/ct-about-page/about-page.php:69
+msgid "Go to the Customizer"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:68
+msgid ""
+"Using the WordPress Customizer you can easily customize every aspect of the "
+"theme."
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:77
+#: custom/ct-about-page/about-page.php:79
+msgid "Contact Support"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:78
+msgid ""
+"We want to make sure you have the best experience using  Best Restaurant, "
+"and that is why we have gathered all the necessary information here for you. "
+"We hope you will enjoy using  Best Restaurant as much as we enjoy creating "
+"great products."
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:94
+#, php-format
+msgid "Get %s now!"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:97
+msgid "One-page Theme"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:103
+msgid "Text and Image Logos"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:109
+msgid "Front Page Parallax Image Banner"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:115
+msgid "Parallax Backgrounds"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:121
+msgid "Front page section reordering"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:127
+msgid "Full screen front page banner"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:133
+msgid "Front page about us section"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:139
+msgid "Front page service section"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:145
+msgid "Front page blog section"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:151
+msgid "Footer copyright editor"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:157
+msgid "Multiple blog layouts"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:163
+msgid "Footer widgets"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:169
+msgid "Front page menu section"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:175
+msgid "Front page reserve now section"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:181
+msgid "Front page image and video slider"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:187
+msgid "Front page why choose us section"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:193
+msgid "Front page team section"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:199
+msgid "Front page facts section"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:205
+msgid "Front page gallery section"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:211
+msgid "Front page testimonial section"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:217
+msgid "Front page events section"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:223
+msgid "Google map"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:229
+msgid "Google fonts"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:235
+msgid "Shortcode"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:241
+msgid "Multiple page template"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:247
+msgid "Woocommerce compatible"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:253
+msgid "Unlimited color choices"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:258
+msgid "Automatic Updates"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:269
+msgid "Already activated"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:270
+msgid "Version: "
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:271
+msgid "Install and Activate"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:272
+msgid "Activate"
+msgstr ""
+
+#: custom/ct-about-page/about-page.php:273
+msgid "Deactivate"
+msgstr ""
+
+#: custom/ct-about-page/class-ct-about-page.php:920
+msgid "Activating"
+msgstr ""
+
+#: custom/customizer-pro/class-customize.php:76
+msgid "Best Restaurant Pro"
+msgstr ""
+
+#: custom/customizer-pro/class-customize.php:78
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: custom/inc.php:135
+msgid "About Us"
+msgstr ""
+
+#: custom/inc.php:148
+msgid "Vestibulum iaculis sapien sit amet metus mattis"
+msgstr ""
+
+#: custom/inc.php:149
+msgid "Lorem ipsum dolor sit amet"
+msgstr ""
+
+#: custom/inc.php:160
+msgid "From The Blog"
+msgstr ""
+
+#: custom/inc.php:161
+msgid "You can write a description of the section here!"
+msgstr ""
+
+#: custom/inc.php:200 custom/inc.php:212
+msgid "Check it out"
+msgstr ""
+
+#: custom/inc.php:206
+msgid "Downlaod Now"
+msgstr ""
+
+#: custom/inc.php:226
+msgid "383 Waterview Lane, Las Vegas, US"
+msgstr ""
+
+#: custom/inc.php:231
+msgid "+1 123 456 789"
+msgstr ""
+
+#: custom/inc.php:266 custom/section/homepage-about.php:24
+#: custom/section/homepage-about.php:49
+msgid "Read More"
+msgstr ""
+
+#: custom/inc.php:291
+msgid "View The Blog"
+msgstr ""
+
+#: custom/section/homepage-slider.php:66
+msgid "Download Now"
+msgstr ""
+
+#: custom/section/homepage-slider.php:90
+msgid "Previous"
+msgstr ""
+
+#: custom/section/homepage-slider.php:94
+msgid "Next"
+msgstr ""
+
+#: footer.php:13
+msgid "Follow Us On"
+msgstr ""

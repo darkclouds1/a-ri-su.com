@@ -1,0 +1,179 @@
+0000.002 (0) Opened log file at time: Fri, 06 Apr 2018 07:14:34 +0000 on http://www.a-ri-su.de/wordpress
+0000.005 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.5 WP: 4.0.23 PHP: 5.3.29 (cgi-fcgi, SunOS localhost 5.10 Generic_150401-49 i86pc) MySQL: 5.6.39 WPLANG: de_DE Server: Apache/2.4.29 (Unix) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 8.3M | 8.8M) multisite: N openssl: OpenSSL 1.0.2j  26 Sep 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.006 (0) Free space on disk containing Updraft's temporary directory: Unknown
+0000.017 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.018 (0) Semaphore (fd, wp_options) being initialised
+0000.023 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.025 (0) Set semaphore last lock (fd) time to 2018-04-06 07:14:34
+0000.026 (0) Semaphore lock (fd) complete
+0000.031 (0) Backup run: resumption=0, nonce=2968f1382030, begun at=1522998874 (0s ago), job type=backup
+0000.032 (0) Scheduling a resumption (1) after 300 seconds (1522999174) in case this run gets aborted
+0000.049 (0) Checking if we have a zip executable available
+0000.050 (0) Testing: /usr/bin/zip
+0000.067 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.073 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.074 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.076 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.077 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.099 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.100 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.128 (0) Working binary zip found: /usr/bin/zip
+0000.130 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.131 (0) Creation of backups of directories: beginning
+0000.141 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.065 (0) Total entities for the zip file: 214 directories, 1334 files (0 skipped as non-modified), 23.7 MB
+0001.116 (0) Zip: backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.165 (0) Zip: backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.215 (0) Zip: backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.270 (0) Zip: backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.322 (0) Zip: backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.324 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (19 MB, 1334 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0002.814 (0) backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-plugins.zip.tmp: size is now: 7.40 MB
+0002.866 (0) Zip: backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-plugins.zip.tmp: 600 files added (on-disk size: 7598.1 KB)
+0002.918 (0) Zip: backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-plugins.zip.tmp: 700 files added (on-disk size: 7598.1 KB)
+0002.968 (0) Zip: backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-plugins.zip.tmp: 800 files added (on-disk size: 7598.1 KB)
+0003.018 (0) Zip: backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-plugins.zip.tmp: 900 files added (on-disk size: 7598.1 KB)
+0003.070 (0) Zip: backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-plugins.zip.tmp: 1000 files added (on-disk size: 7598.1 KB)
+0003.072 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.8 MB, 1334 files batched, 501 (1002) added so far); re-opening (prior size: 7598.1 KB)
+0003.516 (0) Zip: backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-plugins.zip.tmp: 1100 files added (on-disk size: 8330.3 KB)
+0003.570 (0) Zip: backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-plugins.zip.tmp: 1200 files added (on-disk size: 8330.3 KB)
+0003.626 (0) Zip: backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-plugins.zip.tmp: 1300 files added (on-disk size: 8330.3 KB)
+0004.180 (0) Created plugins zip (0) - 9187.1 KB in 4 s (2278.1 KB/s) (sha1: 46b192cf5f481720379e32d0703f18b6056f479a, sha256: 0f885d094dde0fd226915c686ce3f4a07a8e76d91ed6a79f87e0f455d6f20afb)
+0004.185 (0) Beginning creation of dump of themes (split every: 400 MB)
+0005.245 (0) Total entities for the zip file: 84 directories, 769 files (0 skipped as non-modified), 23 MB
+0005.298 (0) Zip: backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0005.347 (0) Zip: backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0005.401 (0) Zip: backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0005.450 (0) Zip: backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0005.498 (0) Zip: backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0005.500 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6 MB, 769 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0008.024 (0) backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-themes.zip.tmp: size is now: 4.80 MB
+0008.101 (0) Zip: backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-themes.zip.tmp: 600 files added (on-disk size: 4930.7 KB)
+0008.174 (0) Zip: backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-themes.zip.tmp: 700 files added (on-disk size: 4930.7 KB)
+0010.201 (0) backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-themes.zip.tmp: size is now: 21.40 MB
+0010.502 (0) Created themes zip (0) - 21946.9 KB in 6.3 s (3476.4 KB/s) (sha1: 4783d332fd5cd9089cafafd08ce8976d7a6ac21a, sha256: 51cf57b8e0860a01c3eeb8261a18ecea16f4d2c4e300386eafa74a2fe9ed418d)
+0010.511 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0010.512 (0) Looking for candidates to back up in: /mnt/webq/e1/39/52234239/htdocs/wordpress/wp-content/uploads
+0010.515 (0) finding files: 2010: adding to list (1)
+0010.516 (0) finding files: 2011: adding to list (2)
+0010.517 (0) finding files: 2013: adding to list (3)
+0010.518 (0) finding files: 2014: adding to list (4)
+0010.519 (0) finding files: 2015: adding to list (5)
+0010.520 (0) finding files: 2016: adding to list (6)
+0010.520 (0) finding files: 2017: adding to list (7)
+0010.521 (0) finding files: 2018: adding to list (8)
+0010.522 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0011.306 (0) Total entities for the zip file: 65 directories, 768 files (0 skipped as non-modified), 85.2 MB
+0011.357 (0) Zip: backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0011.414 (0) Zip: backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0011.461 (0) Zip: backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0011.478 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (25 MB, 768 files batched, 334 (334) added so far); re-opening (prior size: 0 KB)
+0014.465 (0) backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-uploads.zip.tmp: size is now: 25.00 MB
+0014.469 (0) A useful amount of data was added after this amount of zip processing: 4.8 s (normalised: 4.8 s, rate: 5293 KB/s)
+0014.471 (0) Performance is good - will increase the amount of data we attempt to batch (time=4.8395819664001, normalised_time=4.8365556136425, max_time=-1, data points known=0, old_max_bytes=26214400, new_max_bytes=32520333)
+0014.520 (0) Zip: backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-uploads.zip.tmp: 400 files added (on-disk size: 25583.7 KB)
+0014.594 (0) Zip: backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-uploads.zip.tmp: 500 files added (on-disk size: 25583.7 KB)
+0014.639 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 31 MB added on this batch (32.7 MB, 768 files batched, 235 (569) added so far); re-opening (prior size: 25583.7 KB)
+0018.559 (0) backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-uploads.zip.tmp: size is now: 57.50 MB
+0018.566 (0) A useful amount of data was added after this amount of zip processing: 4.9 s (normalised: 4.7 s, rate: 6776.5 KB/s)
+0018.569 (0) Performance is good - will increase the amount of data we attempt to batch (time=4.9370000362396, normalised_time=4.6865444152814, max_time=-1, data points known=0, old_max_bytes=32520333, new_max_bytes=41634513)
+0018.594 (0) Zip: backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-uploads.zip.tmp: 600 files added (on-disk size: 58916.9 KB)
+0018.670 (0) Zip: backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-uploads.zip.tmp: 700 files added (on-disk size: 58916.9 KB)
+0021.800 (0) backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-uploads.zip.tmp: size is now: 85.10 MB
+0022.862 (0) Created uploads zip (0) - 87134.8 KB in 12.3 s (7063.2 KB/s) (sha1: bcda5016e0dcd61913d7731b15fdf1310776f093, sha256: 680d5eaad1a06c4990a9703418d7cd7a3d271308cbe66d5640283cf2f542ad71)
+0022.867 (0) Beginning backup of other directories found in the content directory (index: 0)
+0022.869 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0022.870 (0) Looking for candidates to back up in: /mnt/webq/e1/39/52234239/htdocs/wordpress/wp-content
+0022.871 (0) finding files: languages: adding to list (1)
+0022.872 (0) finding files: plugins: skipping: this is the plugins directory
+0022.873 (0) finding files: themes: skipping: this is the themes directory
+0022.874 (0) finding files: upgrade: skipping: excluded by options
+0022.875 (0) finding files: uploads: skipping: this is the uploads directory
+0022.876 (0) finding files: updraft: skipping: this is the updraft directory
+0022.876 (0) finding files: index.php: adding to list (2)
+0022.894 (0) Total entities for the zip file: 3 directories, 17 files (0 skipped as non-modified), 1.4 MB
+0023.096 (0) backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-others.zip.tmp: size is now: 0.40 MB
+0023.111 (0) Created others zip (0) - 425.5 KB in 0.2 s (1845.2 KB/s) (sha1: 0af40c2bcbc69fec3ed54da56f0ec757f6482e07, sha256: dbcd0ab1269006789f7b6e39a25e60a32540a2bddd8028689186198278b4ce0d)
+0023.120 (0) Saving backup status to database (elements: 8)
+0023.124 (0) Beginning creation of database dump (WordPress DB)
+0023.129 (0) Testing: /usr/bin/mysqldump
+0023.148 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCRE (truncated - 1089 bytes total)
+0023.154 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0023.170 (0) Table wp_options: Total expected rows (approximate): 214
+0023.179 (0) Table wp_options: Total rows added: 210 in 0.01 seconds
+0023.181 (0) Table wp_options: finishing file (backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-db-table-wp_options.table.gz - 12.2 KB)
+0023.191 (0) Table wp_users: Total expected rows (approximate): 1
+0023.194 (0) Table wp_users: Total rows added: 1 in 0.00 seconds
+0023.196 (0) Table wp_users: finishing file (backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-db-table-wp_users.table.gz - 0.5 KB)
+0023.205 (0) Table wp_usermeta: Total expected rows (approximate): 27
+0023.209 (0) Table wp_usermeta: Total rows added: 27 in 0.00 seconds
+0023.210 (0) Table wp_usermeta: finishing file (backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-db-table-wp_usermeta.table.gz - 1.2 KB)
+0023.223 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0023.226 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0023.227 (0) Table wp_commentmeta: finishing file (backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-db-table-wp_commentmeta.table.gz - 0.3 KB)
+0023.236 (0) Table wp_comments: Total expected rows (approximate): 0
+0023.240 (0) Table wp_comments: Total rows added: 0 in 0.00 seconds
+0023.242 (0) Table wp_comments: finishing file (backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-db-table-wp_comments.table.gz - 0.5 KB)
+0023.253 (0) Table wp_links: Total expected rows (approximate): 7
+0023.258 (0) Table wp_links: Total rows added: 7 in 0.00 seconds
+0023.259 (0) Table wp_links: finishing file (backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-db-table-wp_links.table.gz - 0.6 KB)
+0023.269 (0) Table wp_postmeta: Total expected rows (approximate): 643
+0023.291 (0) Table wp_postmeta: Total rows added: 643 in 0.02 seconds
+0023.293 (0) Table wp_postmeta: finishing file (backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-db-table-wp_postmeta.table.gz - 13.3 KB)
+0023.302 (0) Table wp_posts: Total expected rows (approximate): 937
+0023.506 (0) Table wp_posts: Total rows added: 937 in 0.20 seconds
+0023.508 (0) Table wp_posts: finishing file (backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-db-table-wp_posts.table.gz - 119.9 KB)
+0023.518 (0) Table wp_term_relationships: Total expected rows (approximate): 815
+0023.541 (0) Table wp_term_relationships: Total rows added: 815 in 0.02 seconds
+0023.544 (0) Table wp_term_relationships: finishing file (backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-db-table-wp_term_relationships.table.gz - 2.2 KB)
+0023.561 (0) Table wp_term_taxonomy: Total expected rows (approximate): 14
+0023.565 (0) Table wp_term_taxonomy: Total rows added: 14 in 0.00 seconds
+0023.567 (0) Table wp_term_taxonomy: finishing file (backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-db-table-wp_term_taxonomy.table.gz - 0.5 KB)
+0023.576 (0) Table wp_terms: Total expected rows (approximate): 13
+0023.580 (0) Table wp_terms: Total rows added: 13 in 0.00 seconds
+0023.582 (0) Table wp_terms: finishing file (backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-db-table-wp_terms.table.gz - 0.6 KB)
+0023.590 (0) backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-db-table-wp_options.table.gz (1/11): adding to final database dump
+0023.596 (0) backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-db-table-wp_users.table.gz (2/11): adding to final database dump
+0023.598 (0) backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-db-table-wp_usermeta.table.gz (3/11): adding to final database dump
+0023.600 (0) backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-db-table-wp_commentmeta.table.gz (4/11): adding to final database dump
+0023.602 (0) backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-db-table-wp_comments.table.gz (5/11): adding to final database dump
+0023.604 (0) backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-db-table-wp_links.table.gz (6/11): adding to final database dump
+0023.607 (0) backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-db-table-wp_postmeta.table.gz (7/11): adding to final database dump
+0023.619 (0) backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-db-table-wp_posts.table.gz (8/11): adding to final database dump
+0023.736 (0) backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-db-table-wp_term_relationships.table.gz (9/11): adding to final database dump
+0023.741 (0) backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-db-table-wp_term_taxonomy.table.gz (10/11): adding to final database dump
+0023.743 (0) backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-db-table-wp_terms.table.gz (11/11): adding to final database dump
+0023.746 (0) backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-db.gz: finished writing out complete database file (136 KB)
+0023.782 (0) Total database tables backed up: 11 (backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-db.gz, size: 154196, sha256)
+0023.789 (0) backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0023.790 (0) backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0023.791 (0) backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0023.791 (0) backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-others.zip: others: This file has not yet been successfully uploaded: will queue
+0023.792 (0) backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-db.gz: db: This file has not yet been successfully uploaded: will queue
+0023.793 (0) Saving backup history. Total backup size: 116.1 MB
+0023.796 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0023.801 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0023.802 (0) No remote despatch: user chose no remote backup service
+0023.804 (0) Recording as successfully uploaded: backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-plugins.zip (c4b36a88d491bc3ee510f47cede5cf7f)
+0023.813 (0) Recording as successfully uploaded: backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-themes.zip (9380fd12b62f4568797ec1eb37190d1c)
+0023.819 (0) Recording as successfully uploaded: backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-uploads.zip (9819193b65b6da0f01ecba024ebb0243)
+0023.824 (0) Recording as successfully uploaded: backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-others.zip (be51790894c2629ce9361573866ec3bf)
+0023.829 (0) Recording as successfully uploaded: backup_2018-04-06-0714_ARISU_Mnchen__Lehel__mod_2968f1382030-db.gz (263c604b2dc240e96147b4644bd8ba61)
+0023.836 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0023.837 (0) Number of backup sets in history: 1; groups (db): 1
+0023.838 (0) Examining (for databases) backup set with group_id=0, nonce=2968f1382030, datestamp=1522998874 (Apr 06 2018 07:14:34)
+0023.839 (0) This backup set is the backup set just made, so will not be deleted.
+0023.839 (0) Number of backup sets in history: 1; groups (files): 1
+0023.840 (0) Examining (for files) backup set with nonce=2968f1382030, datestamp=1522998874 (Apr 06 2018 07:14:34)
+0023.840 (0) This backup set is the backup set just made, so will not be deleted.
+0023.841 (0) This backup set is the backup set just made, so will not be deleted.
+0023.841 (0) This backup set is the backup set just made, so will not be deleted.
+0023.841 (0) This backup set is the backup set just made, so will not be deleted.
+0023.841 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0023.842 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0023.845 (0) Resume backup (2968f1382030, 0): finish run
+0023.848 (0) Decremented the semaphore (fd) by 1
+0023.850 (0) Semaphore (fd) unlocked
+0023.850 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0023.856 (0) No email will/can be sent - the user has not configured an email address.
+0023.857 (0) The backup apparently succeeded and is now complete

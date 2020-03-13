@@ -1,0 +1,16 @@
+/**
+ * Readme.html
+ */
+ 
+body {font:14px Georgia, Times, serif;line-height:21px}
+
+	#wrap  {margin:0 auto;width:550px}
+	
+		h1 {border-bottom:2px solid #000;font-size:1.846154em;line-height:0.875em;margin:0.875em 0;padding-bottom:5px;text-align:center}
+		h2 {font-size:1.615385em;line-height:1em;margin:1em 0;}
+		
+			p {text-align:justify;margin:21px 0}
+			
+			ul {list-style:square;margin:0 0 21px 0;padding:0}
+			ul ul li {margin-left:2em}
+			li p     {margin-top:0}

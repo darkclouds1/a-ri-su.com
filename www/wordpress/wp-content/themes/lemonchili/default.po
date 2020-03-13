@@ -1,0 +1,1429 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Soundboard\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-01 16:24+0100\n"
+"PO-Revision-Date: 2014-04-01 16:24+0100\n"
+"Last-Translator: Gerda <ggerda@hotmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:11
+msgid "404 ERROR - Not Found"
+msgstr ""
+
+#: 404.php:12
+msgid "The page you requested does not exist."
+msgstr ""
+
+#: archive.php:18
+msgid "All posts on"
+msgstr ""
+
+#: archive.php:21
+#: archive.php:24
+msgid "All posts in"
+msgstr ""
+
+#: archive.php:27
+msgid "Author"
+msgstr ""
+
+#: archive.php:30
+msgid "Blog Archives"
+msgstr ""
+
+#: comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:15
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:15
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:15
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:52
+msgid "Name"
+msgstr ""
+
+#: comments.php:57
+msgid "Email (will not be published) "
+msgstr ""
+
+#: footer.php:14
+msgid "All Rights Reserved."
+msgstr ""
+
+#: functions.php:18
+msgid "sidebar on homepage"
+msgstr ""
+
+#: functions.php:27
+msgid "sidebar on contact page. Will display below content."
+msgstr ""
+
+#: functions.php:43
+msgid "LEMONCHILI Main Menu"
+msgstr ""
+
+#: functions.php:71
+msgid " Navigation"
+msgstr ""
+
+#: login.php:9
+msgid "Username"
+msgstr ""
+
+#: login.php:10
+msgid "Password"
+msgstr ""
+
+#: login.php:11
+msgid "Remember Me"
+msgstr ""
+
+#: login.php:12
+msgid "Log In"
+msgstr ""
+
+#: loop.php:9
+#: search.php:35
+msgid "Permanent link to"
+msgstr ""
+
+#: loop.php:66
+msgid "<span class=\"moretext\"> Read more </span>"
+msgstr ""
+
+#: loop.php:78
+#: page.php:27
+#: search.php:66
+#: single-events.php:219
+#: single-gallery.php:45
+#: single-menu.php:44
+#: single-team.php:56
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: search.php:6
+msgid "Search Results for "
+msgstr ""
+
+#: search.php:11
+msgid "&ldquo;"
+msgstr ""
+
+#: search.php:13
+msgid "&rdquo;"
+msgstr ""
+
+#: search.php:19
+msgid "results"
+msgstr ""
+
+#: searchform.php:5
+msgid "Search here ..."
+msgstr ""
+
+#: searchform.php:6
+msgid "Go"
+msgstr ""
+
+#: single-events.php:30
+msgid "Monday"
+msgstr ""
+
+#: single-events.php:31
+msgid "Tuesday"
+msgstr ""
+
+#: single-events.php:32
+msgid "Wednesday"
+msgstr ""
+
+#: single-events.php:33
+msgid "Thursday"
+msgstr ""
+
+#: single-events.php:34
+msgid "Friday"
+msgstr ""
+
+#: single-events.php:35
+msgid "Saturday"
+msgstr ""
+
+#: single-events.php:36
+msgid "Sunday"
+msgstr ""
+
+#: single-events.php:42
+#: single-events.php:59
+msgid "Jan"
+msgstr ""
+
+#: single-events.php:43
+#: single-events.php:60
+msgid "Feb"
+msgstr ""
+
+#: single-events.php:44
+#: single-events.php:61
+msgid "Mar"
+msgstr ""
+
+#: single-events.php:45
+#: single-events.php:62
+msgid "Apr"
+msgstr ""
+
+#: single-events.php:46
+#: single-events.php:63
+msgid "May"
+msgstr ""
+
+#: single-events.php:47
+#: single-events.php:64
+msgid "Jun"
+msgstr ""
+
+#: single-events.php:48
+#: single-events.php:65
+msgid "Jul"
+msgstr ""
+
+#: single-events.php:49
+#: single-events.php:66
+msgid "Aug"
+msgstr ""
+
+#: single-events.php:50
+#: single-events.php:67
+msgid "Sep"
+msgstr ""
+
+#: single-events.php:51
+#: single-events.php:68
+msgid "Oct"
+msgstr ""
+
+#: single-events.php:52
+#: single-events.php:69
+msgid "Nov"
+msgstr ""
+
+#: single-events.php:53
+#: single-events.php:70
+msgid "Dec"
+msgstr ""
+
+#: single-events.php:108
+msgid "event ends:"
+msgstr ""
+
+#: single-events.php:139
+msgid "no comments"
+msgstr ""
+
+#: single-events.php:139
+msgid "1 comment"
+msgstr ""
+
+#: single-events.php:139
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: single-events.php:148
+msgid "join facebook event"
+msgstr ""
+
+#: single-events.php:155
+msgid "SHARE:"
+msgstr ""
+
+#: template-contact.php:69
+msgid "Thanks, your email was sent successfully."
+msgstr ""
+
+#: template-contact.php:74
+msgid "Uh oh... an error occured."
+msgstr ""
+
+#: template-contact.php:84
+msgid "&larr; Please enter your name."
+msgstr ""
+
+#: template-contact.php:90
+msgid "Email"
+msgstr ""
+
+#: template-contact.php:92
+msgid "&larr; Please enter a valid email address."
+msgstr ""
+
+#: template-contact.php:98
+msgid "Message"
+msgstr ""
+
+#: template-contact.php:100
+msgid "&larr; Please enter a message."
+msgstr ""
+
+#: template-contact.php:105
+msgid "Send"
+msgstr ""
+
+#: template-events1.php:80
+#: template-events1.php:109
+msgid "January"
+msgstr ""
+
+#: template-events1.php:81
+#: template-events1.php:110
+msgid "February"
+msgstr ""
+
+#: template-events1.php:82
+#: template-events1.php:111
+msgid "March"
+msgstr ""
+
+#: template-events1.php:83
+#: template-events1.php:112
+msgid "April"
+msgstr ""
+
+#: template-events1.php:85
+#: template-events1.php:114
+msgid "June"
+msgstr ""
+
+#: template-events1.php:86
+#: template-events1.php:115
+msgid "July"
+msgstr ""
+
+#: template-events1.php:87
+#: template-events1.php:116
+msgid "August"
+msgstr ""
+
+#: template-events1.php:88
+#: template-events1.php:117
+msgid "September"
+msgstr ""
+
+#: template-events1.php:89
+#: template-events1.php:118
+msgid "October"
+msgstr ""
+
+#: template-events1.php:90
+#: template-events1.php:119
+msgid "November"
+msgstr ""
+
+#: template-events1.php:91
+#: template-events1.php:120
+msgid "December"
+msgstr ""
+
+#: template-events1.php:153
+#: template-events1.php:178
+msgid "view details"
+msgstr ""
+
+#: template-events1.php:196
+#: template-events2.php:150
+msgid "There are no dates yet."
+msgstr ""
+
+#: template-events2.php:120
+msgid "<span class=\"moretext\"> view details </span>"
+msgstr ""
+
+#: includes/admin/options-framework.php:262
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin/options-framework.php:296
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: includes/admin/options-framework.php:336
+msgid "Default options restored."
+msgstr ""
+
+#: includes/admin/options-framework.php:383
+msgid "Options saved."
+msgstr ""
+
+#: includes/admin/options-framework.php:431
+msgid "LemonChili Options"
+msgstr ""
+
+#: includes/admin/options-medialibrary-uploader.php:127
+msgid "Upload"
+msgstr ""
+
+#: includes/admin/options-medialibrary-uploader.php:150
+msgid "View File"
+msgstr ""
+
+#: includes/admin/options.php:43
+msgid "light"
+msgstr ""
+
+#: includes/admin/options.php:43
+msgid "dark"
+msgstr ""
+
+#: includes/admin/options.php:85
+msgid "GENERAL"
+msgstr ""
+
+#: includes/admin/options.php:89
+msgid "Configure the general setup of your theme. Upload a Logo, add some custom CSS and insert a google tracking code."
+msgstr ""
+
+#: includes/admin/options.php:93
+msgid "Load responsive stylesheets"
+msgstr ""
+
+#: includes/admin/options.php:94
+msgid "Check this box if you would like to load responsive stylesheets for tablets and mobile phones"
+msgstr ""
+
+#: includes/admin/options.php:101
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/admin/options.php:102
+msgid "Want to add any custom CSS code? Put it in here, and the rest is taken care of. This overrides any other stylesheets."
+msgstr ""
+
+#: includes/admin/options.php:107
+msgid "404 Error"
+msgstr ""
+
+#: includes/admin/options.php:108
+msgid "Add your own text to display on error pages."
+msgstr ""
+
+#: includes/admin/options.php:113
+msgid "Google Analytics Code"
+msgstr ""
+
+#: includes/admin/options.php:114
+msgid "Enter your Google Analytics or other tracking code here. It will be inserted before the closing head tag of your theme."
+msgstr ""
+
+#: includes/admin/options.php:120
+msgid "Theme Customization"
+msgstr ""
+
+#: includes/admin/options.php:126
+msgid "Make left area scrollable"
+msgstr ""
+
+#: includes/admin/options.php:127
+msgid "Check this box if you would like the left area (Logo, navigation, search bar, social icons) to scroll with the content"
+msgstr ""
+
+#: includes/admin/options.php:132
+msgid "Team Page - Number of columns"
+msgstr ""
+
+#: includes/admin/options.php:138
+msgid "When event is over..."
+msgstr ""
+
+#: includes/admin/options.php:139
+msgid "This does not affect the events widget (past events will always be removed from the event widget)."
+msgstr ""
+
+#: includes/admin/options.php:145
+msgid "Display search bar"
+msgstr ""
+
+#: includes/admin/options.php:146
+msgid "Check this box if you would like to display a search bar below the navigation area"
+msgstr ""
+
+#: includes/admin/options.php:151
+msgid "Show author info in the news info section"
+msgstr ""
+
+#: includes/admin/options.php:152
+msgid "Check this box if you would like to display the name of the author for each news posts"
+msgstr ""
+
+#: includes/admin/options.php:157
+msgid "Remove Comments"
+msgstr ""
+
+#: includes/admin/options.php:159
+msgid "Remove all comment sections from the entire website"
+msgstr ""
+
+#: includes/admin/options.php:163
+msgid "Copyright text"
+msgstr ""
+
+#: includes/admin/options.php:164
+msgid "Add your own  copyright text to display below content."
+msgstr ""
+
+#: includes/admin/options.php:171
+msgid "Logo"
+msgstr ""
+
+#: includes/admin/options.php:177
+msgid "Upload Logo"
+msgstr ""
+
+#: includes/admin/options.php:178
+msgid "Upload your Logo. Recommended image width: 140px."
+msgstr ""
+
+#: includes/admin/options.php:182
+msgid "Upload Retina Logo (Optional)"
+msgstr ""
+
+#: includes/admin/options.php:183
+msgid "Upload your Retina Logo. This should be your Logo in double size (If your Logo is 140 x 50px, it should be 280 x 100px)"
+msgstr ""
+
+#: includes/admin/options.php:187
+msgid "Original Logo Width"
+msgstr ""
+
+#: includes/admin/options.php:188
+msgid "Enter the width of the Standard Logo you have uploaded (not the Retina Logo). If your Logo has a width of 140px, enter: 140. This is important for your Retina Logo to display properly."
+msgstr ""
+
+#: includes/admin/options.php:193
+msgid "Original Logo Height"
+msgstr ""
+
+#: includes/admin/options.php:201
+msgid "Logo for Login page"
+msgstr ""
+
+#: includes/admin/options.php:207
+msgid "Upload Logo for Login page"
+msgstr ""
+
+#: includes/admin/options.php:208
+msgid "Upload a Logo to replace the Wordpress Logo on the Login page"
+msgstr ""
+
+#: includes/admin/options.php:212
+msgid "Login Logo Height"
+msgstr ""
+
+#: includes/admin/options.php:219
+#: includes/admin/options.php:225
+msgid "Favicon"
+msgstr ""
+
+#: includes/admin/options.php:226
+msgid "Upload a 16 x 16 favicon"
+msgstr ""
+
+#: includes/admin/options.php:232
+#: includes/admin/options.php:238
+msgid "Custom Gravatar"
+msgstr ""
+
+#: includes/admin/options.php:239
+msgid "Upload a Gravatar"
+msgstr ""
+
+#: includes/admin/options.php:249
+msgid "STYLE"
+msgstr ""
+
+#: includes/admin/options.php:253
+msgid "Choose light or dark skin, set a background image or color and add a box shadow and rounded corners."
+msgstr ""
+
+#: includes/admin/options.php:256
+msgid "Theme Skin"
+msgstr ""
+
+#: includes/admin/options.php:257
+msgid "Choose light or dark skin"
+msgstr ""
+
+#: includes/admin/options.php:263
+msgid "Background Image"
+msgstr ""
+
+#: includes/admin/options.php:264
+msgid "Upload your own custom background image."
+msgstr ""
+
+#: includes/admin/options.php:268
+msgid "Background Position"
+msgstr ""
+
+#: includes/admin/options.php:269
+msgid "Choose background image positioning"
+msgstr ""
+
+#: includes/admin/options.php:274
+msgid "Repeat Background"
+msgstr ""
+
+#: includes/admin/options.php:275
+msgid "Stretched Background  /  Fixed Position"
+msgstr ""
+
+#: includes/admin/options.php:276
+msgid "No Repeat  /  Position: Top Center"
+msgstr ""
+
+#: includes/admin/options.php:280
+msgid "Background Color"
+msgstr ""
+
+#: includes/admin/options.php:281
+msgid "Choose a simple color instead of a background image."
+msgstr ""
+
+#: includes/admin/options.php:286
+msgid "Box Shadow"
+msgstr ""
+
+#: includes/admin/options.php:287
+msgid "Add box shadow to Left Area, Slider and Main Content"
+msgstr ""
+
+#: includes/admin/options.php:292
+msgid "Rounded Corners"
+msgstr ""
+
+#: includes/admin/options.php:293
+msgid "Add rounded corners to Left Area, Slider and Main Content"
+msgstr ""
+
+#: includes/admin/options.php:304
+msgid "TYPOGRAPHY"
+msgstr ""
+
+#: includes/admin/options.php:308
+msgid "Select your favorite font or upload one of hundreds of Google Web fonts. This applies to headings, page title, widget title, navigation, slider caption, event date, price and button text."
+msgstr ""
+
+#: includes/admin/options.php:311
+msgid "Predefined Fonts"
+msgstr ""
+
+#: includes/admin/options.php:312
+msgid "Choose a font for your headings, page title, widget title, navigation, slider caption, event date, price and button text"
+msgstr ""
+
+#: includes/admin/options.php:318
+msgid "Custom Google Web Font"
+msgstr ""
+
+#: includes/admin/options.php:319
+msgid "Simply enter the name of the Google font here. The rest is taken care of. (Applies to headings, page title, widget title, navigation, slider caption, event date, price and button text)"
+msgstr ""
+
+#: includes/admin/options.php:324
+msgid "Font Weight"
+msgstr ""
+
+#: includes/admin/options.php:325
+msgid "Set font weight. Default: 800 (Applies to headings, page title, widget title, navigation, slider caption, event date, price and button text) Info: Normal = 400"
+msgstr ""
+
+#: includes/admin/options.php:330
+msgid "Text Transform"
+msgstr ""
+
+#: includes/admin/options.php:331
+msgid "Some Headings are UPPERCASE letters by default. However, some fonts simply don't look right with just uppercase letters. Here you can set the text transform to NONE"
+msgstr ""
+
+#: includes/admin/options.php:337
+msgid "Letter Spacing"
+msgstr ""
+
+#: includes/admin/options.php:338
+msgid "Letter spacing for page title and widget title is set to -1px by default. However, some fonts simply don't look right with negative letter spacing. Here you can set letter spacing to 0. If you want to set letter spacing to -1px, enter: -1"
+msgstr ""
+
+#: includes/admin/options.php:347
+msgid "COLOR"
+msgstr ""
+
+#: includes/admin/options.php:351
+msgid "Set the theme color."
+msgstr ""
+
+#: includes/admin/options.php:355
+msgid "Predefined Theme Color"
+msgstr ""
+
+#: includes/admin/options.php:382
+msgid "Custom Theme Color"
+msgstr ""
+
+#: includes/admin/options.php:383
+msgid "If you prefer a different color than the ones above,  you can select a custom color here. This field has priority over the Predefined Theme Color."
+msgstr ""
+
+#: includes/admin/options.php:388
+msgid "Seondary (Hover) Color"
+msgstr ""
+
+#: includes/admin/options.php:389
+msgid "Pick a secondary color."
+msgstr ""
+
+#: includes/admin/options.php:395
+msgid "Copyright Text Color"
+msgstr ""
+
+#: includes/admin/options.php:396
+msgid "Pick a color for the copyright text below content"
+msgstr ""
+
+#: includes/admin/options.php:406
+#: includes/metaboxes/config-meta-boxes.php:149
+msgid "SLIDER"
+msgstr ""
+
+#: includes/admin/options.php:410
+msgid "Set up your slider"
+msgstr ""
+
+#: includes/admin/options.php:414
+msgid "Show Slider on Homepage"
+msgstr ""
+
+#: includes/admin/options.php:420
+msgid "Select a Slider"
+msgstr ""
+
+#: includes/admin/options.php:421
+msgid "After you have created a slider, you can select it here."
+msgstr ""
+
+#: includes/admin/options.php:430
+msgid "SOCIAL"
+msgstr ""
+
+#: includes/admin/options.php:434
+msgid "Enter the info for your social network accounts to display them below the navigation or in the Top Bar."
+msgstr ""
+
+#: includes/admin/options.php:438
+msgid "Social icons position"
+msgstr ""
+
+#: includes/admin/options.php:443
+msgid "in Top Bar"
+msgstr ""
+
+#: includes/admin/options.php:444
+msgid "below navigation"
+msgstr ""
+
+#: includes/admin/options.php:449
+msgid "Enter the full URL to your Facebook profile"
+msgstr ""
+
+#: includes/admin/options.php:455
+msgid "Enter the full URL to your Twitter profile"
+msgstr ""
+
+#: includes/admin/options.php:461
+msgid "Enter the full URL to your Google Plus profile"
+msgstr ""
+
+#: includes/admin/options.php:467
+msgid "Enter the full URL to your FourSquare profile"
+msgstr ""
+
+#: includes/admin/options.php:473
+msgid "Enter the full URL to your Yelp page"
+msgstr ""
+
+#: includes/admin/options.php:479
+msgid "Enter the full URL to your YouTube page"
+msgstr ""
+
+#: includes/admin/options.php:485
+msgid "Enter the full URL to your Instagram profile"
+msgstr ""
+
+#: includes/admin/options.php:491
+msgid "Enter the full URL to your Pinterest profile"
+msgstr ""
+
+#: includes/admin/options.php:497
+msgid "Enter the full URL to your Flickr profile"
+msgstr ""
+
+#: includes/admin/options.php:508
+msgid "CONTACT"
+msgstr ""
+
+#: includes/admin/options.php:512
+msgid "Enter the contact info for the Top Bar - and the settings for your Contact Form."
+msgstr ""
+
+#: includes/admin/options.php:515
+msgid "Top Bar - Phone"
+msgstr ""
+
+#: includes/admin/options.php:516
+msgid "Enter a phone number to diplay in the Top Bar."
+msgstr ""
+
+#: includes/admin/options.php:521
+msgid "Top Bar - Tap To Call"
+msgstr ""
+
+#: includes/admin/options.php:522
+msgid "If you want to enable \"Tap to Call\" for mobile phones, enter the phone number including country and area code, without any punctuation here."
+msgstr ""
+
+#: includes/admin/options.php:528
+msgid "Top Bar - Address"
+msgstr ""
+
+#: includes/admin/options.php:529
+msgid "Enter an address to diplay in the Top Bar."
+msgstr ""
+
+#: includes/admin/options.php:534
+msgid "Top Bar - Link to Google Maps"
+msgstr ""
+
+#: includes/admin/options.php:535
+msgid "If you would like your address to link to Google maps, enter the google maps full URL here."
+msgstr ""
+
+#: includes/admin/options.php:541
+msgid "Top Bar Font Size"
+msgstr ""
+
+#: includes/admin/options.php:547
+msgid "Top Bar Icon Size"
+msgstr ""
+
+#: includes/admin/options.php:553
+msgid "Top Bar Text and Icon Color"
+msgstr ""
+
+#: includes/admin/options.php:554
+msgid "Pick a color for the text and icons in the top bar."
+msgstr ""
+
+#: includes/admin/options.php:559
+msgid "Contact Form - Email Address"
+msgstr ""
+
+#: includes/admin/options.php:560
+msgid "Enter the email address where the email from the contact form should be sent to."
+msgstr ""
+
+#: includes/admin/options.php:565
+msgid "Contact Form - Subject"
+msgstr ""
+
+#: includes/admin/options.php:566
+msgid "Enter the subject for messages that are sent via the contact form."
+msgstr ""
+
+#: includes/functions/theme_functions.php:85
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:14
+msgid "DATE / TIME"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:18
+msgid "Date"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:26
+msgid "Time"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:33
+msgid "Event ends (date)"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:41
+msgid "Event ends (time)"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:48
+msgid "link to facebook event"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:61
+msgid "GALLERY"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:66
+msgid "Upload your images. </br></br> Drag and drop images to reorder them."
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:78
+msgid "MENU DETAILS"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:82
+msgid "Menu Item Description"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:89
+msgid "Price"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:90
+msgid "Enter the price (and optionally the currency symbol)"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:96
+msgid "Cents"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:97
+msgid "If you want to style the cents (smaller font size, bottom border), enter the cent amount here."
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:110
+msgid "TEAM MEMBER INFO"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:121
+msgid "Position"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:135
+msgid "About"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:153
+msgid ""
+"<b>Recommended </br> image size:</b> </br> 700px x 340px </br></br>\n"
+"                                      Drag and drop images to reorder them. </br></br>\n"
+"                                      To enter an URL where the image should link to, click <b>Edit</b> and enter the full URL under <b>SLIDER Image Links To</b>. </br></br>\n"
+"                                      To display a caption over the slider image,click <b>Edit</b> and enter the text under <b>SLIDER Caption</b>."
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:169
+msgid "MENU CATEGORY"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:173
+msgid "Menu Category"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:201
+msgid "SLIDER Image Links To"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:204
+msgid "Enter full URL. To be used with SLIDER images only."
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:208
+msgid "SLIDER Caption"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:211
+msgid "Slider Caption. To be used with SLIDER images only. Use &#60;/br> for line breaks"
+msgstr ""
+
+#: includes/metaboxes/inc/field.php:185
+msgid "+"
+msgstr ""
+
+#: includes/metaboxes/inc/field.php:202
+msgid "&#8211;"
+msgstr ""
+
+#: includes/metaboxes/inc/meta-box.php:241
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: includes/metaboxes/inc/fields/button.php:35
+msgid "Click me"
+msgstr ""
+
+#: includes/metaboxes/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: includes/metaboxes/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: includes/metaboxes/inc/fields/file-input.php:40
+msgid "Select"
+msgstr ""
+
+#: includes/metaboxes/inc/fields/file-input.php:42
+msgid "Remove"
+msgstr ""
+
+#: includes/metaboxes/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: includes/metaboxes/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: includes/metaboxes/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: includes/metaboxes/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: includes/metaboxes/inc/fields/map.php:48
+msgid "Find Address"
+msgstr ""
+
+#: includes/metaboxes/inc/fields/oembed.php:54
+msgid "Embed HTML not available."
+msgstr ""
+
+#: includes/metaboxes/inc/fields/oembed.php:76
+msgid "Preview"
+msgstr ""
+
+#: includes/metaboxes/inc/fields/post.php:52
+msgid "Post"
+msgstr ""
+
+#: includes/metaboxes/inc/fields/post.php:66
+#: includes/metaboxes/inc/fields/taxonomy.php:40
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: includes/posttypes/events.php:9
+msgid "Events"
+msgstr ""
+
+#: includes/posttypes/events.php:11
+msgid "Add Date"
+msgstr ""
+
+#: includes/posttypes/events.php:12
+msgid "Add New Date"
+msgstr ""
+
+#: includes/posttypes/events.php:13
+msgid "Edit Date"
+msgstr ""
+
+#: includes/posttypes/events.php:14
+msgid "New Date"
+msgstr ""
+
+#: includes/posttypes/events.php:15
+#: includes/posttypes/gallery.php:15
+#: includes/posttypes/menu.php:48
+#: includes/posttypes/slider.php:15
+msgid "View Details"
+msgstr ""
+
+#: includes/posttypes/events.php:16
+msgid "Search Events"
+msgstr ""
+
+#: includes/posttypes/events.php:17
+msgid "No Dates were found with that criteria"
+msgstr ""
+
+#: includes/posttypes/events.php:18
+msgid "No Date found in the Trash with that criteria"
+msgstr ""
+
+#: includes/posttypes/events.php:19
+msgid "View Date"
+msgstr ""
+
+#: includes/posttypes/gallery.php:9
+msgid "Galleries"
+msgstr ""
+
+#: includes/posttypes/gallery.php:10
+msgid "Gallery"
+msgstr ""
+
+#: includes/posttypes/gallery.php:11
+msgid "Add Gallery"
+msgstr ""
+
+#: includes/posttypes/gallery.php:12
+msgid "Add New Gallery"
+msgstr ""
+
+#: includes/posttypes/gallery.php:13
+msgid "Edit Gallery"
+msgstr ""
+
+#: includes/posttypes/gallery.php:14
+msgid "New Gallery"
+msgstr ""
+
+#: includes/posttypes/gallery.php:16
+msgid "Search Galleries"
+msgstr ""
+
+#: includes/posttypes/gallery.php:17
+msgid "No Gallery were found with that criteria"
+msgstr ""
+
+#: includes/posttypes/gallery.php:18
+msgid "No Gallery found in the Trash with that criteria"
+msgstr ""
+
+#: includes/posttypes/gallery.php:19
+msgid "View Gallery"
+msgstr ""
+
+#: includes/posttypes/menu.php:8
+msgid "Menu Categories"
+msgstr ""
+
+#: includes/posttypes/menu.php:10
+msgid "Search Menu Category"
+msgstr ""
+
+#: includes/posttypes/menu.php:11
+msgid "All Menu Categories"
+msgstr ""
+
+#: includes/posttypes/menu.php:12
+msgid "Parent Menu Category"
+msgstr ""
+
+#: includes/posttypes/menu.php:13
+msgid "Parent Menu Category:"
+msgstr ""
+
+#: includes/posttypes/menu.php:14
+msgid "Edit Menu Category"
+msgstr ""
+
+#: includes/posttypes/menu.php:15
+msgid "Update Menu Category"
+msgstr ""
+
+#: includes/posttypes/menu.php:16
+msgid "Add New Menu Category"
+msgstr ""
+
+#: includes/posttypes/menu.php:17
+msgid "New Menu Category Name"
+msgstr ""
+
+#: includes/posttypes/menu.php:42
+#: includes/posttypes/menu.php:43
+msgid "Menu"
+msgstr ""
+
+#: includes/posttypes/menu.php:44
+msgid "Add Menu item"
+msgstr ""
+
+#: includes/posttypes/menu.php:45
+msgid "Add New Menu item"
+msgstr ""
+
+#: includes/posttypes/menu.php:46
+msgid "Edit Menu item"
+msgstr ""
+
+#: includes/posttypes/menu.php:47
+msgid "New Menu item"
+msgstr ""
+
+#: includes/posttypes/menu.php:49
+msgid "Search Menu item"
+msgstr ""
+
+#: includes/posttypes/menu.php:50
+msgid "No Menu item was found with that criteria"
+msgstr ""
+
+#: includes/posttypes/menu.php:51
+msgid "No Menu item was found in the Trash with that criteria"
+msgstr ""
+
+#: includes/posttypes/menu.php:52
+msgid "View Menu item"
+msgstr ""
+
+#: includes/posttypes/slider.php:9
+#: includes/posttypes/slider.php:10
+msgid "Slider"
+msgstr ""
+
+#: includes/posttypes/slider.php:11
+msgid "Add Slider"
+msgstr ""
+
+#: includes/posttypes/slider.php:12
+msgid "Add New Slider"
+msgstr ""
+
+#: includes/posttypes/slider.php:13
+msgid "Edit Slider"
+msgstr ""
+
+#: includes/posttypes/slider.php:14
+msgid "New Slider"
+msgstr ""
+
+#: includes/posttypes/slider.php:16
+msgid "Search Slider"
+msgstr ""
+
+#: includes/posttypes/slider.php:17
+msgid "No Slider was found with that criteria"
+msgstr ""
+
+#: includes/posttypes/slider.php:18
+msgid "No Slider was found in the Trash with that criteria"
+msgstr ""
+
+#: includes/posttypes/slider.php:19
+msgid "View Slider"
+msgstr ""
+
+#: includes/posttypes/team.php:9
+msgid "Team"
+msgstr ""
+
+#: includes/posttypes/team.php:10
+msgid "Team Member"
+msgstr ""
+
+#: includes/posttypes/team.php:11
+msgid "Add Team Member"
+msgstr ""
+
+#: includes/posttypes/team.php:12
+msgid "Add New Team Member"
+msgstr ""
+
+#: includes/posttypes/team.php:13
+msgid "Edit Team Member"
+msgstr ""
+
+#: includes/posttypes/team.php:14
+msgid "New Team Member"
+msgstr ""
+
+#: includes/posttypes/team.php:15
+#: includes/posttypes/team.php:19
+msgid "View Team Member"
+msgstr ""
+
+#: includes/posttypes/team.php:16
+msgid "Search Team"
+msgstr ""
+
+#: includes/posttypes/team.php:17
+msgid "No Team Member was found with that criteria"
+msgstr ""
+
+#: includes/posttypes/team.php:18
+msgid "No Team Member was found in the Trash with that criteria"
+msgstr ""
+
+#: includes/widgets/widget-events.php:22
+msgid "Display upcoming events"
+msgstr ""
+
+#: includes/widgets/widget-events.php:25
+msgid "LEMONCHILI - Events"
+msgstr ""
+
+#: includes/widgets/widget-events.php:245
+msgid "Icon (choose from <a href=\"http://fortawesome.github.io/Font-Awesome/icons/\" target=\"_blank\">here</a>) </br> Example: <b>fa-calendar</b> "
+msgstr ""
+
+#: includes/widgets/widget-events.php:249
+#: includes/widgets/widget-featureddish.php:197
+#: includes/widgets/widget-flickr.php:105
+#: includes/widgets/widget-gallery.php:143
+#: includes/widgets/widget-images.php:131
+#: includes/widgets/widget-news.php:171
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/widget-events.php:254
+msgid "Number of Dates:"
+msgstr ""
+
+#: includes/widgets/widget-featureddish.php:22
+msgid "Display a featured dish"
+msgstr ""
+
+#: includes/widgets/widget-featureddish.php:25
+msgid "LEMONCHILI - Featured Dish"
+msgstr ""
+
+#: includes/widgets/widget-featureddish.php:193
+msgid "Icon (choose from <a href=\"http://fortawesome.github.io/Font-Awesome/icons/\" target=\"_blank\">here</a>) </br> Example: <b>fa-cutlery</b> "
+msgstr ""
+
+#: includes/widgets/widget-featureddish.php:201
+msgid "select a menu item:"
+msgstr ""
+
+#: includes/widgets/widget-flickr.php:22
+msgid "Display images from a Flickr account."
+msgstr ""
+
+#: includes/widgets/widget-flickr.php:25
+msgid "LEMONCHILI - Flickr"
+msgstr ""
+
+#: includes/widgets/widget-gallery.php:22
+msgid "Display your latest galleries"
+msgstr ""
+
+#: includes/widgets/widget-gallery.php:25
+msgid "LEMONCHILI - Gallery"
+msgstr ""
+
+#: includes/widgets/widget-gallery.php:139
+#: includes/widgets/widget-images.php:127
+msgid "Icon (choose from <a href=\"http://fortawesome.github.io/Font-Awesome/icons/\" target=\"_blank\">here</a>) </br> Example: <b>fa-camera-retro</b> "
+msgstr ""
+
+#: includes/widgets/widget-gallery.php:148
+msgid "Number of galleries:"
+msgstr ""
+
+#: includes/widgets/widget-hours.php:22
+msgid "Display the opening hours"
+msgstr ""
+
+#: includes/widgets/widget-hours.php:25
+msgid "LEMONCHILI - Opening Hours"
+msgstr ""
+
+#: includes/widgets/widget-hours.php:209
+msgid "Icon (choose from <a href=\"http://fortawesome.github.io/Font-Awesome/icons/\" target=\"_blank\">here</a>) </br> Example: <b>fa-clock-o</b> "
+msgstr ""
+
+#: includes/widgets/widget-hours.php:213
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/widget-hours.php:220
+msgid "Day 1"
+msgstr ""
+
+#: includes/widgets/widget-hours.php:224
+msgid "Day 1 hours"
+msgstr ""
+
+#: includes/widgets/widget-hours.php:231
+msgid "Day 2"
+msgstr ""
+
+#: includes/widgets/widget-hours.php:235
+msgid "Day 2 hours"
+msgstr ""
+
+#: includes/widgets/widget-hours.php:242
+msgid "Day 3"
+msgstr ""
+
+#: includes/widgets/widget-hours.php:246
+msgid "Day 3 hours"
+msgstr ""
+
+#: includes/widgets/widget-hours.php:253
+msgid "Day 4"
+msgstr ""
+
+#: includes/widgets/widget-hours.php:257
+msgid "Day 4 hours"
+msgstr ""
+
+#: includes/widgets/widget-hours.php:264
+msgid "Day 5"
+msgstr ""
+
+#: includes/widgets/widget-hours.php:268
+msgid "Day 5 hours"
+msgstr ""
+
+#: includes/widgets/widget-hours.php:275
+msgid "Day 6"
+msgstr ""
+
+#: includes/widgets/widget-hours.php:279
+msgid "Day 6 hours"
+msgstr ""
+
+#: includes/widgets/widget-hours.php:286
+msgid "Day 7"
+msgstr ""
+
+#: includes/widgets/widget-hours.php:290
+msgid "Day 7 hours"
+msgstr ""
+
+#: includes/widgets/widget-images.php:22
+msgid "Display your latest images"
+msgstr ""
+
+#: includes/widgets/widget-images.php:25
+msgid "LEMONCHILI - Images"
+msgstr ""
+
+#: includes/widgets/widget-images.php:136
+#: includes/widgets/widget-news.php:176
+msgid "Posts Number:"
+msgstr ""
+
+#: includes/widgets/widget-news.php:22
+msgid "Display your latest News Entries."
+msgstr ""
+
+#: includes/widgets/widget-news.php:25
+msgid "LEMONCHILI - News"
+msgstr ""
+
+#: includes/widgets/widget-news.php:167
+msgid "Icon (choose from <a href=\"http://fortawesome.github.io/Font-Awesome/icons/\" target=\"_blank\">here</a>) </br> Example: <b>fa-pencil</b> "
+msgstr ""
+
